@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria - Bespoke Hyper-Personalized Travel Concierge",
+  "description": "Hyper-personalized daily itineraries tailored to unique guest profiles, with dining from street markets to Michelin stars, real-time weather, Google Maps directions, booking integrations, offline access, and 24/7 AI concierge support.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
